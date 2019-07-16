@@ -19,9 +19,9 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/nVidia_model.png "nVidia_model"
-[image2]: ./examples/cinter.png "Center Image"
-[image3]: ./examples/left.png "Left Image"
-[image4]: ./examples/right.png "Right Image"
+[image2]: ./examples/center.jpg "Center Image"
+[image3]: ./examples/left.jpg "Left Image"
+[image4]: ./examples/right.jpg "Right Image"
 [image5]: ./examples/flip.png "Flip Image"
 
 ## Rubric Points
